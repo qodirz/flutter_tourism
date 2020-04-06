@@ -6,7 +6,7 @@ class CategoryScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.indigo[100],
+      backgroundColor: Colors.deepPurple[100],
       appBar: AppBar(
         title: Text("Tourism App"),
       ),
